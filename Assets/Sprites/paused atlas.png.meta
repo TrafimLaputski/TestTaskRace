@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -115,7 +115,112 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: paused atlas_0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1508
+        width: 354
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd4e60a573c54f4bbc6f59207e7d800
+      internalID: 1103131709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paused atlas_12
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 263
+        width: 1445
+        height: 1130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2f438d3f05e224982ae0c043a0b4a9
+      internalID: 865527584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paused atlas_13
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1222
+        width: 172
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dcd5765f3390547a225f5a1487c42e
+      internalID: 1258043271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paused atlas_32
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 745
+        width: 802
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a16941917d14f45b8bdc852a6aee8d
+      internalID: -1523480783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paused atlas_41
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 263
+        width: 590
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f94aae5264064c4d8e3a73b086d5996
+      internalID: -274027801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +231,65 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      paused atlas_0: 1103131709
+      paused atlas_1: -909627113
+      paused atlas_10: -413755134
+      paused atlas_11: -491030840
+      paused atlas_12: 865527584
+      paused atlas_13: 1258043271
+      paused atlas_14: 1478822473
+      paused atlas_15: 411203899
+      paused atlas_16: -887014573
+      paused atlas_17: -1251699892
+      paused atlas_18: 1895962566
+      paused atlas_19: -2012457902
+      paused atlas_2: -1052109648
+      paused atlas_20: 743331992
+      paused atlas_21: 1496344837
+      paused atlas_22: -933215142
+      paused atlas_23: -1294579912
+      paused atlas_24: -2083653444
+      paused atlas_25: -1105812964
+      paused atlas_26: 1679928551
+      paused atlas_27: -864262431
+      paused atlas_28: 976164730
+      paused atlas_29: -852517536
+      paused atlas_3: 1773091293
+      paused atlas_30: 1879319985
+      paused atlas_31: 2100688113
+      paused atlas_32: -1523480783
+      paused atlas_33: -278139618
+      paused atlas_34: 4141102
+      paused atlas_35: -1530512765
+      paused atlas_36: -1408805874
+      paused atlas_37: -1876501836
+      paused atlas_38: -1455325955
+      paused atlas_39: 1782330810
+      paused atlas_4: -144955278
+      paused atlas_40: 1864830703
+      paused atlas_41: -274027801
+      paused atlas_42: 273679699
+      paused atlas_43: 98937677
+      paused atlas_44: -2058981837
+      paused atlas_45: -1708347384
+      paused atlas_46: -454974646
+      paused atlas_47: 1163923289
+      paused atlas_48: 1331178874
+      paused atlas_49: -2127119045
+      paused atlas_5: 1879548929
+      paused atlas_50: 310044608
+      paused atlas_51: -893265112
+      paused atlas_52: -1845238650
+      paused atlas_53: -729476955
+      paused atlas_54: -1568110212
+      paused atlas_55: -791794992
+      paused atlas_56: -1932380531
+      paused atlas_57: 1822511365
+      paused atlas_6: 1483789262
+      paused atlas_7: 1573521041
+      paused atlas_8: 1049670915
+      paused atlas_9: 62350556
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

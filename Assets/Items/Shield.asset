@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48a8f92e9c920dc42a19bfcfb23405bc, type: 3}
+  m_Name: Shield
+  m_EditorClassIdentifier: 
+  itemBacklight: {fileID: -535375631, guid: a292bacca0a14bf42953f58d470c0e16, type: 3}
+  itemName: Shield
+  itemSprites:
+  - {fileID: -482721777, guid: 67fa0a24ccd4e6449aefe7f93a244ab6, type: 3}
+  barSprite: {fileID: 1435183115, guid: 67fa0a24ccd4e6449aefe7f93a244ab6, type: 3}
+  itemValue: 0
+  duration: 1500
+  onRoadCount: 1
+  itemType: 7
